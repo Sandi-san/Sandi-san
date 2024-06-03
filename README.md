@@ -36,9 +36,9 @@ I'm always open to connecting with like-minded individuals, whether it's to coll
 
 Here are a few highlights of my work:
 
-1. **AuctionBay**: [Brief description, technologies used, and purpose]
-2. **Uno**: [Brief description, technologies used, and purpose]
-3. **MultimediaPlayer**: [Brief description, technologies used, and purpose]
+1. **AuctionBay**: Web application for auction bidding, written in React.js and Nest.js
+2. **Uno**: Desktop application based on Uno board game, written in Java
+3. **MultimediaPlayer**: Simple desktop video-media player, written in WPF and C#
 
 You can check out all my repositories [here](https://github.com/Sandi-san?tab=repositories).
 
