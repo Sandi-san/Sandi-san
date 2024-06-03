@@ -8,7 +8,7 @@ With a background in Computer Science, I've had the privilege of working on dive
 - Full-Stack Development
 - User Interfaces (UI)
 - Programming
-- Internet Applications
+- Web Applications
 - Computer Game Development
 
 ## 🛠 Languages and Tools
